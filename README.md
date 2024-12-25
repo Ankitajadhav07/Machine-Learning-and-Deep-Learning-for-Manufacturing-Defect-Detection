@@ -29,7 +29,7 @@ This repository contains the implementation of an **automated defect detection s
 ## **How to Use**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/nkitajadhav/defect-detection.git
+   git clone https://github.com/ankitajadhav/defect-detection.git
    cd defect-detection
    ```
 2. **Install Dependencies**:
